@@ -251,5 +251,5 @@ Modem kurulumu ve openvpn server sunucusu hazır.
 
 /etc/openvpn/client.ovpn dosyasını istemci olarak kullanmak istediğiniz cihazda vpn bağlantısı için kullanabilirsiniz.
 
-Yeni bir Client istemcisi oluşturmak isterseniz repositoride yer alan [ovpnclient_creator.sh](wget) dosyasını indirip çalıştırabilirsiniz.
+Yeni bir Client istemcisi oluşturmak isterseniz repositoride yer alan [ovpnclient_creator.sh](wget https://github.com/yasintuncer/Raspberrypi_OpenWRT_OPENVPNSERVER/blob/main/ovpnclient_creator.sh) dosyasını indirip çalıştırabilirsiniz.
 
