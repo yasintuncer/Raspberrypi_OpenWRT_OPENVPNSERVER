@@ -253,3 +253,6 @@ Modem kurulumu ve openvpn server sunucusu hazır.
 
 Yeni bir Client istemcisi oluşturmak isterseniz repositoride yer alan [ovpnclient_creator.sh](ovpnclient_creator.sh) dosyasını indirip çalıştırabilirsiniz.
 
+Daha Detaylı bilgi için: 
+[OpenWRT](https://openwrt.org)
+[OpenWRT OpenVPN Server](https://openwrt.org/docs/guide-user/services/vpn/openvpn/server) linklerini takip edebilirsiniz.
